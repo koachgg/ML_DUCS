@@ -1,6 +1,8 @@
 # ML_DUCS
 The following contains Practical Assignment of ML course , Semester - VI , BSc (Hons) Computer Science , University of Delhi
 
+### Disclaimer :  The following code provided is intended for educational and informational purposes only. It is crucial to use this code responsibly and in compliance with all applicable laws, regulations, and ethical guidelines. The code should not be misused, modified, or repurposed with malicious intent, including but not limited to cheating, hacking etc.
+
 [Question 1](ML1.ipynb)
 Classify the iris dataset using a decision tree classifier. Divide the dataset into training and
 testing in the ratio 80:20. Use the functions from the sklearn package. Display the final decision
@@ -82,3 +84,5 @@ clusters.
 Write a program to implement 2-layered ANN for classifying digits datasets from sklearn. Use
 70% data for training the model and check the accuracy of the model on remaining 30% data.
 Use softmax activation function in the last layer and relu function in the hidden layer.
+
+
