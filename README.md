@@ -1,6 +1,6 @@
 # ML_DUCS
 
-ML_Lab Assignment - 1 : Apply Decision Tree Classification to the dataset mentioned in the given notebook. Record the accuracy, precision, recall, and f1-score when the data is:
+[Lab Assignment - 1](MSc_ML_Lab_1.ipynb) : Apply Decision Tree Classification to the dataset mentioned in the given notebook. Record the accuracy, precision, recall, and f1-score when the data is:
 
 1. Not scaled/ normalized
 2. scaled but not oversampled
