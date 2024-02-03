@@ -1,7 +1,18 @@
 # ML_DUCS
-The following contains Practical Assignment of ML course , Semester - VI , BSc (Hons) Computer Science , University of Delhi
 
-### Disclaimer :  The following code provided is intended for educational and informational purposes only. It is crucial to use this code responsibly and in compliance with all applicable laws, regulations, and ethical guidelines. The code should not be misused, modified, or repurposed with malicious intent, including but not limited to cheating, hacking etc.
+ML_Lab Assignment - 1 : Apply Decision Tree Classification to the dataset mentioned in the given notebook. Record the accuracy, precision, recall, and f1-score when the data is:
+
+1. Not scaled/ normalized
+2. scaled but not oversampled
+3. scaled and oversampled
+
+Repeat the same on another dataset from the UCI repository for the binary classification problem.
+
+---
+
+***The following contains Practical Assignment of ML course , Semester - VI , BSc (Hons) Computer Science , University of Delhi***
+
+##### Disclaimer :  The following code provided is intended for educational and informational purposes only. It is crucial to use this code responsibly and in compliance with all applicable laws, regulations, and ethical guidelines. The code should not be misused, modified, or repurposed with malicious intent, including but not limited to cheating, hacking etc.
 
 [Question 1](ML1.ipynb)
 Classify the iris dataset using a decision tree classifier. Divide the dataset into training and
