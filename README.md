@@ -8,6 +8,11 @@
 
 Repeat the same on another dataset from the UCI repository for the binary classification problem.
 
+[Lab Assignment - 2](MSc_ML_Lab_2.ipynb) : Implement two algorithms:
+
+1. Find-S
+2. Candidate Elimination
+
 ---
 
 ***The following contains Practical Assignment of ML course , Semester - VI , BSc (Hons) Computer Science , University of Delhi***
