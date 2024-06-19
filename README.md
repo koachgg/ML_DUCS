@@ -1,5 +1,10 @@
-# ML_DUCS
+# Machine Learning Project 
+### Topic : Real Estate Price Prediction
+### PPT : [Presentation](https://www.canva.com/design/DAFgn1kaMQw/ehAGxjhRYRxNORl3BRKTIw/edit?utm_content=DAFgn1kaMQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### Source Code : [Click Here ](Melbourne_Real_Estate.ipynb)
 
+# ML_DUCS
+## Lab Work : 
 [Lab Assignment - 1](MSc_ML_Lab_1.ipynb) : Apply Decision Tree Classification to the dataset mentioned in the given notebook. Record the accuracy, precision, recall, and f1-score when the data is:
 
 1. Not scaled/ normalized
